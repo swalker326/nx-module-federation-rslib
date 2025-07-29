@@ -5,6 +5,18 @@
   "references": [
     {
       "path": "./apps/web"
+    },
+    {
+      "path": "./apps/host"
+    },
+    {
+      "path": "./packages/remote-e2e"
+    },
+    {
+      "path": "./packages/remote"
+    },
+    {
+      "path": "./packages/design-system"
     }
   ]
 }
